@@ -101,6 +101,8 @@ TUCSS is a simple github project collecting links and cheat sheets for various r
 
 ## Programming
 - [Leetcode](https://leetcode.com/)
+- [Codeforces](https://codeforces.com/)
+- [Topcoder](https://www.topcoder.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Udemy](https://www.udemy.com/)
 - [OpenClassrooms](https://openclassrooms.com)
