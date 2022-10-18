@@ -1,40 +1,45 @@
-# TUCSS
-The Ultimate Cheat Sheet Suite. 
-1. [[#Description|Description]]
-1. [[#Cybersecurity|Cybersecurity]]
-	1. [[#Cybersecurity#Youtube channels|Youtube channels]]
-	1. [[#Cybersecurity#Learning|Learning]]
-	1. [[#Cybersecurity#Bounty Hunting|Bounty Hunting]]
-	1. [[#Cybersecurity#Distributions|Distributions]]
-	1. [[#Cybersecurity#Vuln search|Vuln search]]
-	1. [[#Cybersecurity#Legendary github repos|Legendary github repos]]
-	1. [[#Cybersecurity#Exploitation|Exploitation]]
-	1. [[#Cybersecurity#Enumeration|Enumeration]]
-	1. [[#Cybersecurity#Privilege escalation|Privilege escalation]]
-	1. [[#Cybersecurity#Persistence|Persistence]]
-	1. [[#Cybersecurity#Cracking|Cracking]]
-	1. [[#Cybersecurity#Dorking|Dorking]]
-	1. [[#Cybersecurity#Mobile Hacking|Mobile Hacking]]
-1. [[#Programming|Programming]]
-1. [[#No code|No code]]
-	1. [[#No code#Forms|Forms]]
-	1. [[#No code#Scheduling|Scheduling]]
-	1. [[#No code#Databases|Databases]]
-	1. [[#No code#Automation|Automation]]
-	1. [[#No code#App development|App development]]
-	1. [[#No code#Website development|Website development]]
-	1. [[#No code#Artificial Intelligence|Artificial Intelligence]]
-	1. [[#No code#Diagrams|Diagrams]]
-1. [[#Certifications|Certifications]]
-1. [[#Miscellaneous|Miscellaneous]]
-1. [[#Python modules|Python modules]]
-1. [[#Student advantages|Student advantages]]
+# TUCS
+The Ultimate Cheatsheet Suite. 
+* [TUCS](#tucs)
+   * [Description](#description)
+   * [Cybersecurity](#cybersecurity)
+      * [Youtube channels](#youtube-channels)
+      * [Learning](#learning)
+      * [Bounty Hunting](#bounty-hunting)
+      * [Distributions](#distributions)
+      * [Vuln search](#vuln-search)
+      * [Legendary github repos](#legendary-github-repos)
+      * [Exploitation](#exploitation)
+      * [Enumeration](#enumeration)
+      * [Privilege escalation](#privilege-escalation)
+      * [Persistence](#persistence)
+      * [Cracking](#cracking)
+      * [Dorking](#dorking)
+      * [Mobile Hacking](#mobile-hacking)
+      * [Forensics](#forensics)
+      * [OSINT](#osint)
+      * [Cryptography](#cryptography)
+   * [Programming](#programming)
+   * [No code](#no-code)
+      * [Forms](#forms)
+      * [Scheduling](#scheduling)
+      * [Databases](#databases)
+      * [Automation](#automation)
+      * [App development](#app-development)
+      * [Website development](#website-development)
+      * [Artificial Intelligence](#artificial-intelligence)
+      * [Diagrams](#diagrams)
+   * [Certifications](#certifications)
+   * [Miscellaneous](#miscellaneous)
+   * [Python modules](#python-modules)
+   * [Student advantages](#student-advantages)
 
 ## Description
 
 TUCSS is a simple github project collecting links and cheat sheets for various resources, such as cybersecurity, programming, self-development, productivity and common internet usage.
 
 ## Cybersecurity
+Check out [CTFtime](https://ctftime.org/) !
 ### Youtube channels
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 - [John Hammond github repositories](https://github.com/JohnHammond)
@@ -102,7 +107,10 @@ TUCSS is a simple github project collecting links and cheat sheets for various r
 - [nahamsec](https://github.com/nahamsec)
 - [truePolyglot](https://github.com/ansemjo/truepolyglot)
 - [publicApis](https://github.com/public-apis/public-apis)
-
+- [cheat](https://github.com/cheat/cheat)
+- [awesome-readme](https://github.com/matiassingers/awesome-readme)
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- 
 ### Exploitation
 - [XSS hunter](https://xsshunter.com/)
 
@@ -130,6 +138,15 @@ TUCSS is a simple github project collecting links and cheat sheets for various r
 - [Zimperium](https://www.zimperium.com/)
 - [Aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
 
+### Forensics
+- [Volatility](https://www.volatilityfoundation.org/)
+- [Autopsy](https://www.sleuthkit.org/autopsy/)
+- [The Sleuth Kit](https://www.sleuthkit.org/)
+### OSINT
+- [bellingcat](https://fr.bellingcat.com/)
+- [Ozint.eu](https://ozint.eu/)
+### Cryptography
+- [cryptohack](https://cryptohack.org/)
 ## Programming
 - [Leetcode](https://leetcode.com/)
 - [Codeforces](https://codeforces.com/)
@@ -205,7 +222,9 @@ TUCSS is a simple github project collecting links and cheat sheets for various r
 ## Python modules
 - [pefile](https://pypi.org/project/pefile/)
 - [pwntools](https://github.com/Gallopsled/pwntools)
-
+- [sagemath](https://www.sagemath.org/)
+- [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
+- [miasm](https://github.com/cea-sec/miasm)
 ## Student advantages
 - [Student Beans](https://www.studentbeans.com/)
 - [Too good to go](https://toogoodtogo.com/en-us)
