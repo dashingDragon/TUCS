@@ -79,6 +79,7 @@ Check out [CTFtime](https://ctftime.org/) !
 - [Web Security Academy](https://portswigger.net/web-security)
 - [Awesome Appsec](https://asmen.icopy.site/awesome/awesome-appsec/)
 - [Kontra Appsec](https://application.security/)
+- [SecNumacadémie](https://secnumacademie.gouv.fr/)
 
 ### Bounty Hunting
 - [HackerOne](https://www.hackerone.com/)
@@ -110,7 +111,9 @@ Check out [CTFtime](https://ctftime.org/) !
 - [cheat](https://github.com/cheat/cheat)
 - [awesome-readme](https://github.com/matiassingers/awesome-readme)
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- 
+- [Arsenal](https://github.com/Orange-Cyberdefense/arsenal)
+- [CLi cheatsheet](https://github.com/fed/command-line-cheatsheet)
+- [therealunicornsecurity](https://therealunicornsecurity.github.io/Powervision-3/)
 ### Exploitation
 - [XSS hunter](https://xsshunter.com/)
 
@@ -147,6 +150,9 @@ Check out [CTFtime](https://ctftime.org/) !
 - [Ozint.eu](https://ozint.eu/)
 ### Cryptography
 - [cryptohack](https://cryptohack.org/)
+
+### Cloud
+- [Google cloud courses](https://www.cloudskillsboost.google)
 ## Programming
 - [Leetcode](https://leetcode.com/)
 - [Codeforces](https://codeforces.com/)
@@ -159,6 +165,7 @@ Check out [CTFtime](https://ctftime.org/) !
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [lecrabeinfo](https://lecrabeinfo.net/)
 - [zestedesavoir](https://zestedesavoir.com/)
+- [freecodecamp](https://www.freecodecamp.org/)
 
 ## No code 
 ### Forms
@@ -197,6 +204,7 @@ Check out [CTFtime](https://ctftime.org/) !
 - [Webflow](https://webflow.com/)
 - [Weebly](https://www.weebly.com/?lang=fr_FR)
 - [Wix](https://fr.wix.com/)
+- [Figma](https://www.figma.com/fr/)
 
 ### Artificial Intelligence
 - [Alteryx](https://www.alteryx.com/fr)
@@ -211,6 +219,11 @@ Check out [CTFtime](https://ctftime.org/) !
 - [Forage](https://www.theforage.com/virtualprograms/certificates)
 - [Fun-mooc](https://www.fun-mooc.fr/fr/)
 
+## MOOCs and courses
+- [Coursera](https://www.coursera.org/)
+- [pluralsight](https://www.pluralsight.com/)
+- [frontendmentor](https://www.frontendmentor.io/)
+
 ## Miscellaneous
 - [explainShell](https://explainshell.com/)
 - [requestBin](https://requestbin.com/)
@@ -218,7 +231,8 @@ Check out [CTFtime](https://ctftime.org/) !
 - [archwiki](https://wiki.archlinux.org/)
 - [ubuntu-doc](https://doc.ubuntu-fr.org/)
 - [appsec wiki](https://appsecwiki.com/#/)
-
+- [opensourcealternatives.to](https://www.opensourcealternative.to/)
+- [axiom.ai](https://axiom.ai/)
 ## Python modules
 - [pefile](https://pypi.org/project/pefile/)
 - [pwntools](https://github.com/Gallopsled/pwntools)
