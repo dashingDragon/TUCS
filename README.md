@@ -40,6 +40,7 @@ TUCSS is a simple github project collecting links and cheat sheets for various r
 
 ## Cybersecurity
 Check out [CTFtime](https://ctftime.org/) !
+
 ### Youtube channels
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 - [John Hammond github repositories](https://github.com/JohnHammond)
@@ -166,6 +167,19 @@ Check out [CTFtime](https://ctftime.org/) !
 - [lecrabeinfo](https://lecrabeinfo.net/)
 - [zestedesavoir](https://zestedesavoir.com/)
 - [freecodecamp](https://www.freecodecamp.org/)
+- [refactoring guru](https://refactoring.guru/)
+- [codeacademy](https://www.codecademy.com/)
+- [pluralsight](https://www.pluralsight.com/)
+- [codingame](https://www.codingame.com/)
+- [udacity](https://www.udacity.com/)
+- [TheNewBoston](https://developer.thenewboston.com/tutorials/Trending)
+- [programmr](https://www.programmr.com/)
+- [codeavengers](https://www.codeavengers.com/)
+
+### Data science
+- [jupyter-datatables](https://pypi.org/project/jupyter-datatables/)
+- [Daily dose tips](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science)
+- [sidetable](https://pypi.org/project/sidetable/)
 
 ## No code 
 ### Forms
